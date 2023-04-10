@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Hello, Swift Reiss!")
         }
         .padding()
+        .background(.gray)
     }
 }
 
